@@ -1,0 +1,22 @@
+body
+{
+ background: #404040;
+ color:	grey;
+ font-family: 'Berkshire Swash', cursive;
+ font-size: xx-large;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+
